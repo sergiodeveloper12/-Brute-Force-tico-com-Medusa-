@@ -1,4 +1,4 @@
-# -Brute-Force-tico-com-Medusa-
+# -Brute-Force-com-Medusa-
 
 # Auditoria de Segurança: Ataques de Força Bruta com Medusa no Kali Linux
 
